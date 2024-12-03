@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omar14524](https://github.com/Omar14524)
 
+- 💬 Ask me about **data analysis techniques, data visualization, business intelligence insights**
+
 - 📫 How to reach me **omarsaaad49@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LUmj0uVLpyhxfjw-B4nMzvDt3ZuPX9Eu/view?usp=sharing](https://drive.google.com/file/d/1LUmj0uVLpyhxfjw-B4nMzvDt3ZuPX9Eu/view?usp=sharing)
